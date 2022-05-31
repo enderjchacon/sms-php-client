@@ -24,7 +24,7 @@ Es necesario tener una cuenta de envío con Altiria. Si todavía no tienes una,
 
 ## Requisitos
 
-- php: ^7.0.0
+- php: ^7.0.0 || ^8.0.0
 - [composer](https://getcomposer.org/)
 
 ## Instalación
