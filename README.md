@@ -1,5 +1,4 @@
-![](http://static.altiria.com/wp-content/themes/altiria/images/logo-altiria.png)
-
+# Fork con Actualizacion para PHP 8
 
 # Altiria, cliente envío de SMS con PHP
 
