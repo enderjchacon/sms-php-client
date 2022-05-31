@@ -31,8 +31,8 @@
         }
     ],
     "require": {
-	    "php": "^7.0.0",
-	    "guzzlehttp/guzzle": "6.5.5",
+	    "php": "^7.0|^8.0",
+	    "guzzlehttp/guzzle": "^6.5.5",
 	    "ext-json": "*"
     },
     "require-dev": {
