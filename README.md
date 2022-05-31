@@ -34,7 +34,7 @@ La forma recomendada de instalar el cliente Altiria para PHP es a través de Com
 ### A través de línea de comandos
 
 <pre>
-composer require altiria/sms-php-client
+composer require sms-php-client/altiria
 </pre>
 
 ### Editando el fichero composer.json y actualizando el proyecto
@@ -43,7 +43,7 @@ En este caso, añadir el siguiente fragmento al fichero composer.json.
 
 <pre>
 "require": {
-	"altiria/sms-php-client": "1.0.2"
+	"sms-php-client/altiria": "1.0.2"
 }
 </pre>
 
